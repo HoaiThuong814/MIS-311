@@ -16,6 +16,7 @@ It includes 202 rows and 5 columns: Country, Year, Average Monthly Income, Cost 
 ![image](https://github.com/user-attachments/assets/5fc374d6-1a80-4641-9174-323a5e395eb2)
 
 Although the exact source of the data is not specified in the file, it likely draws from a combination of reputable global databases such as Numbeo, World Bank, International Labour Organization (ILO), International Monetary Fund (IMF) or from the government. This is because these organizations are commonly known for publishing the types of data like this for research or study. 
+
 This dataset is useful for analyzing income-to-cost-of-living ratios, comparing economic well-being across countries and regions, and understanding global disparities in affordability and quality of life. 
 
 2. Data Cleaning
